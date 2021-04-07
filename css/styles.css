@@ -10664,7 +10664,10 @@ form .row:first-child .floating-label-form-group {
   background-color: #1a252f;
 }
 
-#resume,
 #header {
+  background-color: #2f82bd;
+}
+
+#resume {
   background-color: #2f82bd;
 }
